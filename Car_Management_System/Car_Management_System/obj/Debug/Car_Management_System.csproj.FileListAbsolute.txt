@@ -21,3 +21,7 @@ C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_Sys
 C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.pdb
 C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.Client_Login.resources
 C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.Client_Registration.resources
+C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.Dashboard.resources
+C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.DashboardForm.resources
+C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.CarForm.resources

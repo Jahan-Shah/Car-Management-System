@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Car_Management_System
 {
     internal static class Program
@@ -16,7 +17,7 @@ namespace Car_Management_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Client_Login());
+            Application.Run(new Dashboard());
         }
     }
 }

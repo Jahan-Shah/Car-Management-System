@@ -97,6 +97,7 @@
             this.kryptonLinkLabel1.TabIndex = 48;
             this.kryptonLinkLabel1.Values.ImageTransparentColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.kryptonLinkLabel1.Values.Text = "Sign Up.";
+            this.kryptonLinkLabel1.LinkClicked += new System.EventHandler(this.kryptonLinkLabel1_LinkClicked);
             // 
             // label8
             // 
@@ -190,6 +191,7 @@
             this.kryptonTextBox3.StateCommon.Content.Color1 = System.Drawing.Color.Gray;
             this.kryptonTextBox3.TabIndex = 38;
             this.kryptonTextBox3.Text = "youraddress@gmail.com";
+            this.kryptonTextBox3.TextChanged += new System.EventHandler(this.kryptonTextBox3_TextChanged);
             // 
             // label2
             // 

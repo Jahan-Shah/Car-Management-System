@@ -37,5 +37,15 @@ namespace Car_Management_System
         {
 
         }
+
+        private void kryptonLinkLabel1_LinkClicked(object sender, EventArgs e)
+        {
+        }
+
+        private void kryptonTextBox3_TextChanged(object sender, EventArgs e)
+        {
+
+
+        }
     }
 }
