@@ -124,7 +124,7 @@
             this.iconButton5.Padding = new System.Windows.Forms.Padding(10, 0, 20, 0);
             this.iconButton5.Size = new System.Drawing.Size(200, 60);
             this.iconButton5.TabIndex = 5;
-            this.iconButton5.Text = "Dashboard";
+            this.iconButton5.Text = "Appointment";
             this.iconButton5.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.iconButton5.UseVisualStyleBackColor = false;
             this.iconButton5.Click += new System.EventHandler(this.iconButton5_Click);
@@ -146,7 +146,7 @@
             this.iconButton4.Padding = new System.Windows.Forms.Padding(10, 0, 20, 0);
             this.iconButton4.Size = new System.Drawing.Size(200, 60);
             this.iconButton4.TabIndex = 4;
-            this.iconButton4.Text = "Dashboard";
+            this.iconButton4.Text = "Remove Cars";
             this.iconButton4.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.iconButton4.UseVisualStyleBackColor = false;
             this.iconButton4.Click += new System.EventHandler(this.iconButton4_Click);
@@ -168,7 +168,7 @@
             this.iconButton3.Padding = new System.Windows.Forms.Padding(10, 0, 20, 0);
             this.iconButton3.Size = new System.Drawing.Size(200, 60);
             this.iconButton3.TabIndex = 3;
-            this.iconButton3.Text = "Dashboard";
+            this.iconButton3.Text = "Add Cars";
             this.iconButton3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.iconButton3.UseVisualStyleBackColor = false;
             this.iconButton3.Click += new System.EventHandler(this.iconButton3_Click);

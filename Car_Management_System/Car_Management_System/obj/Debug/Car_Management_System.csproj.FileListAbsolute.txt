@@ -25,3 +25,6 @@ C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_Sys
 C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.Dashboard.resources
 C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.DashboardForm.resources
 C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.CarForm.resources
+C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.AddCars.resources
+C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.Appointment.resources
+C:\Users\shahz\OneDrive\Desktop\shah jahan\Uni\OOP\C# Project\Car_Management_System\Car_Management_System\obj\Debug\Car_Management_System.RemoveCars.resources

@@ -135,17 +135,19 @@ namespace Car_Management_System
         private void iconButton3_Click(object sender, EventArgs e)
         {
             activateButton(sender, myColor);
+            OpenChildForm(new AddCars());
         }
 
         private void iconButton4_Click(object sender, EventArgs e)
         {
             activateButton(sender, myColor);
-
+            OpenChildForm(new RemoveCars());
         }
 
         private void iconButton5_Click(object sender, EventArgs e)
         {
             activateButton(sender, myColor);
+            OpenChildForm(new Appointment());
 
         }
 

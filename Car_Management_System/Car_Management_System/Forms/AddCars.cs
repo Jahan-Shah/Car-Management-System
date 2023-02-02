@@ -10,24 +10,19 @@ using System.Windows.Forms;
 
 namespace Car_Management_System
 {
-    public partial class DashboardForm : Form
+    public partial class AddCars : Form
     {
-        public DashboardForm()
+        public AddCars()
         {
             InitializeComponent();
         }
 
-        private void DashboardForm_Load(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }

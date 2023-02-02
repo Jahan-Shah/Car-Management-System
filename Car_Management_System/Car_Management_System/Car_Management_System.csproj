@@ -69,6 +69,18 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forms\Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Appointment.Designer.cs">
+      <DependentUpon>Appointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddCars.Designer.cs">
+      <DependentUpon>AddCars.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\CarForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -101,6 +113,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\RemoveCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RemoveCars.Designer.cs">
+      <DependentUpon>RemoveCars.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\AddCars.resx">
+      <DependentUpon>AddCars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Appointment.resx">
+      <DependentUpon>Appointment.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\CarForm.resx">
       <DependentUpon>CarForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -126,6 +150,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Forms\RemoveCars.resx">
+      <DependentUpon>RemoveCars.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
